@@ -14,6 +14,7 @@
 		D12FCBE31B446F7E00B77A0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D12FCBE11B446F7E00B77A0F /* LaunchScreen.storyboard */; };
 		D12FCBEE1B446F7E00B77A0F /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12FCBED1B446F7E00B77A0F /* Tic_Tac_ToeTests.swift */; };
 		D12FCBF91B446F7E00B77A0F /* Tic_Tac_ToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12FCBF81B446F7E00B77A0F /* Tic_Tac_ToeUITests.swift */; };
+		D12FCC071B448C2600B77A0F /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12FCC061B448C2600B77A0F /* HomePageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D12FCBF41B446F7E00B77A0F /* Tic Tac ToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D12FCBF81B446F7E00B77A0F /* Tic_Tac_ToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeUITests.swift; sourceTree = "<group>"; };
 		D12FCBFA1B446F7E00B77A0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D12FCC061B448C2600B77A0F /* HomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				D12FCBD81B446F7E00B77A0F /* AppDelegate.swift */,
 				D12FCBDA1B446F7E00B77A0F /* ViewController.swift */,
+				D12FCC061B448C2600B77A0F /* HomePageViewController.swift */,
 				D12FCBDC1B446F7E00B77A0F /* Main.storyboard */,
 				D12FCBDF1B446F7E00B77A0F /* Assets.xcassets */,
 				D12FCBE11B446F7E00B77A0F /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			files = (
 				D12FCBDB1B446F7E00B77A0F /* ViewController.swift in Sources */,
 				D12FCBD91B446F7E00B77A0F /* AppDelegate.swift in Sources */,
+				D12FCC071B448C2600B77A0F /* HomePageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
